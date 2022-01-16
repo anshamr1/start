@@ -1,5 +1,17 @@
 body{
     background: #F3FBF8; 
-    color: #222222; 
-    font-family: rosario;
-}
+ }
+ h1{color: #222222;
+    position: absolute;
+width: 783px;
+height: 90px;
+left: 328.5px;
+top: 241.97px;
+
+font-family: Rosario;
+font-style: normal;
+font-weight: bold;
+font-size: 70px;
+line-height: 90px;
+}  
+    
